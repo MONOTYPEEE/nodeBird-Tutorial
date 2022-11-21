@@ -10,7 +10,10 @@
   "author": "MONOTYPE",
   "license": "ISC",
   "dependencies": {
+    "@ant-design/icons": "^4.8.0",
+    "antd": "^5.0.0",
     "next": "^9.5.5",
-    "prop-types": "^15.8.1"
+    "prop-types": "^15.8.1",
+    "styled-components": "^5.3.6"
   }
 }
