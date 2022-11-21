@@ -1,10 +1,10 @@
-import appLayout from "../components/appLayout";
+import AppLayout from "../components/appLayout";
 
 const Home = () =>{
     return(
-        <appLayout>
+        <AppLayout>
             <div>반가워요 Next.js!</div>
-        </appLayout>
+        </AppLayout>
     );
 }
 

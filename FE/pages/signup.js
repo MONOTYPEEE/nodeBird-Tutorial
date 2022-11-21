@@ -1,6 +1,8 @@
+import AppLayout from "../components/appLayout";
+
 const SignUp = ()=>{
     return (
-        <div>회원가입</div>
+        <AppLayout>회원가입</AppLayout>
     );
 };
 
